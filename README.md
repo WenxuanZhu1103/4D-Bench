@@ -13,7 +13,7 @@
     <a href="#"  target="_blank" style="text-decoration: none;">Mohamed Elhoseiny</a><sup>1</sup>,&nbsp;
     <a href="#"  target="_blank" style="text-decoration: none;">Bernard Ghanem</a><sup>1</sup><br/>
 &nbsp;<sup>1</sup>KAUST,&nbsp;<sup>2</sup>University of Oxford,&nbsp;<sup>3</sup>National Tsing Hua University<br/>
-<a href="https://wenxuanzhu1103.github.io/4dbench.github.io/#captioning-leaderboard" title="Website" target="_blank" rel="nofollow" style="text-decoration: none;">🌎Website</a> |
+<a href="https://wenxuanzhu1103.github.io/4dbench.github.io/" title="Website" target="_blank" rel="nofollow" style="text-decoration: none;">🌎Website</a> |
 <a href="https://huggingface.co/datasets/vxuanz/4D-Bench" title="Dataset" target="_blank" rel="nofollow" style="text-decoration: none;">🤗 Dataset</a> |
 <a href="#" title="aXiv" target="_blank" rel="nofollow" style="text-decoration: none;">📄 arXiv</a> |
 </p>
