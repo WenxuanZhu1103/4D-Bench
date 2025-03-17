@@ -29,7 +29,7 @@ The results from the 4D object captioning experiment indicate that MLLMs general
 4D object QA yields surprising findings: even with simple single-object videos, MLLMs perform poorly, with state-of-the-art GPT-4o achieving only 63\% accuracy compared to the human baseline of 91\%.
 These findings highlight a substantial gap in 4D object understanding and the need for further advancements in MLLMs.
 # How to run
-1. Download dataset from huggingface: 
+1. Download dataset from huggingface: https://huggingface.co/datasets/vxuanz/4D-Bench
 2. Run the evaluation code following the instructions in the README.md files under the 4D_Object_Captioning and 4D_Object_Question_Answering directories.
 
 # Results
