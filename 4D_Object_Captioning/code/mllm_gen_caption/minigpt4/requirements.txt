@@ -1,0 +1,31 @@
+spaces
+torch==2.2.0 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.17.0 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.2.0  --index-url https://download.pytorch.org/whl/cu118
+opencv-python
+moviepy
+webvtt-py
+pytubefix
+omegaconf
+iopath
+timm
+webdataset
+visual_genome
+sentence-transformers
+scikit-learn
+scikit-image
+decord
+pysrt
+pycocotools
+pycocoevalcap
+peft==0.2.0
+wandb
+openai
+nltk
+vllm
+bitsandbytes
+openai-whisper
+numpy==1.26.4
+soundfile
+flask_socketio
+flask_cors
