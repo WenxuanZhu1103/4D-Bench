@@ -15,7 +15,7 @@
 &nbsp;<sup>1</sup>KAUST,&nbsp;<sup>2</sup>University of Oxford,&nbsp;<sup>3</sup>National Tsing Hua University<br/>
 <a href="https://wenxuanzhu1103.github.io/4dbench.github.io/" title="Website" target="_blank" rel="nofollow" style="text-decoration: none;">🌎Website</a> |
 <a href="https://huggingface.co/datasets/vxuanz/4D-Bench" title="Dataset" target="_blank" rel="nofollow" style="text-decoration: none;">🤗 Dataset</a> |
-<a href="#" title="aXiv" target="_blank" rel="nofollow" style="text-decoration: none;">📄 arXiv</a> |
+<a href="https://arxiv.org/abs/2503.17827" title="aXiv" target="_blank" rel="nofollow" style="text-decoration: none;">📄 arXiv</a> |
 </p>
 
 
@@ -29,7 +29,7 @@ The results from the 4D object captioning experiment indicate that MLLMs general
 4D object QA yields surprising findings: even with simple single-object videos, MLLMs perform poorly, with state-of-the-art GPT-4o achieving only 63\% accuracy compared to the human baseline of 91\%.
 These findings highlight a substantial gap in 4D object understanding and the need for further advancements in MLLMs.
 # How to run
-1. Download dataset from huggingface: https://huggingface.co/datasets/vxuanz/4D-Bench
+1. Download dataset from huggingface and unzip: https://huggingface.co/datasets/vxuanz/4D-Bench
 2. Run the evaluation code following the instructions in the README.md files under the 4D_Object_Captioning and 4D_Object_Question_Answering directories.
 
 # Results
@@ -88,10 +88,13 @@ This project  is inspired by [Objaverser-XL](https://objaverse.allenai.org/) and
 # Citation
 If you find this projects is useful, please cite:
 ```tex
-@InProceedings{qian2022pointnext,
-  title   = {PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies},
-  author  = {Qian, Guocheng and Li, Yuchen and Peng, Houwen and Mai, Jinjie and Hammoud, Hasan and Elhoseiny, Mohamed and Ghanem, Bernard},
-  booktitle=Advances in Neural Information Processing Systems (NeurIPS),
-  year    = {2022},
+@misc{zhu20254dbenchbenchmarkingmultimodallarge,
+      title={4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding}, 
+      author={Wenxuan Zhu and Bing Li and Cheng Zheng and Jinjie Mai and Jun Chen and Letian Jiang and Abdullah Hamdi and Sara Rojas Martinez and Chia-Wen Lin and Mohamed Elhoseiny and Bernard Ghanem},
+      year={2025},
+      eprint={2503.17827},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.17827}, 
 }
 ```
